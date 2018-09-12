@@ -30,3 +30,9 @@
   - [垃圾回收](#gc)
   - [并发](#advanced_concurrency)
   - [杂项](#trivia)
+
+## 高级
+
+### 杂项
+
+- [Go Channel 高级实践](https://segmentfault.com/a/1190000016197615)
