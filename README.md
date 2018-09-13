@@ -30,6 +30,12 @@
   - [并发](#user-content-并发-2)
   - [杂项](#user-content-杂项-1)
 
+## 中级
+
+### 杂项
+
+ - [Go语言HTTP/2探险之旅](https://mp.weixin.qq.com/s/Wb4STm5tpZUTJkQbReyShg)
+
 ## 高级
 
 ### 杂项
