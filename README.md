@@ -30,11 +30,17 @@
   - [并发](#user-content-并发-2)
   - [杂项](#user-content-杂项-1)
 
+## 基础
+
+### 基础
+
+- [fmt 如何进行格式化？](http://blog.cyeam.com/golang/2018/09/10/fmt)  
+
 ## 中级
 
 ### 杂项
 
- - [Go语言HTTP/2探险之旅](https://mp.weixin.qq.com/s/Wb4STm5tpZUTJkQbReyShg)
+- [Go语言HTTP/2探险之旅](https://mp.weixin.qq.com/s/Wb4STm5tpZUTJkQbReyShg)
 
 ## 高级
 
