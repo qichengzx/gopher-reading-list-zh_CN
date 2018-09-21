@@ -34,6 +34,7 @@
 
 ### 基础
 
+- [十条有用的 GO 技术](https://golangcaff.com/topics/114/ten-useful-techniques-in-go)
 - [fmt 如何进行格式化？](http://blog.cyeam.com/golang/2018/09/10/fmt)  
 
 ## 中级
