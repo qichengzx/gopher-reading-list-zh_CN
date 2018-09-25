@@ -39,6 +39,10 @@
 
 ## 中级
 
+### 测试
+
+- [SmartyStreets 的 Go 测试探索之路](https://juejin.im/post/5ba83f2ff265da0a867c3818)
+
 ### 杂项
 
 - [Go语言HTTP/2探险之旅](https://mp.weixin.qq.com/s/Wb4STm5tpZUTJkQbReyShg)
