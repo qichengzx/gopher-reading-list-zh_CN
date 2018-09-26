@@ -36,6 +36,7 @@
 
 - [十条有用的 GO 技术](https://golangcaff.com/topics/114/ten-useful-techniques-in-go)
 - [fmt 如何进行格式化？](http://blog.cyeam.com/golang/2018/09/10/fmt)  
+- [像牛人一样改进你的Go代码](https://colobu.com/2017/06/27/Lint-your-golang-code-like-a-mad-man/)
 
 ## 中级
 
