@@ -40,6 +40,10 @@
 
 ## 中级
 
+### 并发
+
+- [通过插图学习 Go 的并发](https://golangcaff.com/topics/140/learning-the-concurrency-of-go-through-illustrations)
+
 ### 测试
 
 - [SmartyStreets 的 Go 测试探索之路](https://juejin.im/post/5ba83f2ff265da0a867c3818)
