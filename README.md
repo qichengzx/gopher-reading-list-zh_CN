@@ -64,3 +64,4 @@
 ### 杂项
 
 - [Go Channel 高级实践](https://segmentfault.com/a/1190000016197615)
+- [Go 程序是如何编译成目标机器码的](https://segmentfault.com/a/1190000016523685)
