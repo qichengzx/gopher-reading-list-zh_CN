@@ -50,6 +50,7 @@
 
 ### 杂项
 
+- [Go 的位操作](https://golangcaff.com/topics/139/bit-operation-of-go)
 - [Go语言HTTP/2探险之旅](https://mp.weixin.qq.com/s/Wb4STm5tpZUTJkQbReyShg)
 
 ## 高级
