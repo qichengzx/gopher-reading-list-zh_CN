@@ -48,6 +48,10 @@
 
 - [SmartyStreets 的 Go 测试探索之路](https://juejin.im/post/5ba83f2ff265da0a867c3818)
 
+### 工具
+
+- [7 种 Go 程序性能分析方法](https://www.7ethan.top/article/golang/94)
+
 ### 杂项
 
 - [Go 的位操作](https://golangcaff.com/topics/139/bit-operation-of-go)
