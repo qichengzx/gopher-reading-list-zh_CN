@@ -48,10 +48,6 @@
 
 - [SmartyStreets 的 Go 测试探索之路](https://juejin.im/post/5ba83f2ff265da0a867c3818)
 
-### 工具
-
-- [7 种 Go 程序性能分析方法](https://www.7ethan.top/article/golang/94)
-
 ### 杂项
 
 - [Go 的位操作](https://golangcaff.com/topics/139/bit-operation-of-go)
@@ -63,6 +59,7 @@
 
 ### 性能
 - [Golang 大杀器之性能剖析](https://github.com/EDDYCJY/blog/blob/master/golang/2018-09-15-Golang%20%E5%A4%A7%E6%9D%80%E5%99%A8%E4%B9%8B%E6%80%A7%E8%83%BD%E5%89%96%E6%9E%90%20PProf.md)
+- [7 种 Go 程序性能分析方法](https://www.7ethan.top/article/golang/94)
 
 ### 并发
 
