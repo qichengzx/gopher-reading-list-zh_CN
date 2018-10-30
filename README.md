@@ -34,7 +34,7 @@
 
 ### 基础
 
-- [十条有用的 GO 技术](https://golangcaff.com/topics/114/ten-useful-techniques-in-go)
+- [十条有用的 Go 技术](https://golangcaff.com/topics/114/ten-useful-techniques-in-go)
 - [fmt 如何进行格式化？](http://blog.cyeam.com/golang/2018/09/10/fmt)  
 - [像牛人一样改进你的Go代码](https://colobu.com/2017/06/27/Lint-your-golang-code-like-a-mad-man/)
 - [使goroutine同步的方法总结](https://www.cnblogs.com/xiaoxlm/p/9753942.html)
@@ -52,7 +52,7 @@
 ### 杂项
 
 - [Go 的位操作](https://golangcaff.com/topics/139/bit-operation-of-go)
-- [Go语言HTTP/2探险之旅](https://mp.weixin.qq.com/s/Wb4STm5tpZUTJkQbReyShg)
+- [Go 语言HTTP/2探险之旅](https://mp.weixin.qq.com/s/Wb4STm5tpZUTJkQbReyShg)
 - [初窥Go module](https://tonybai.com/2018/07/15/hello-go-module/)
 - [goroutine和panic不得不说的故事](https://zhuanlan.zhihu.com/p/42101856)
 
@@ -63,6 +63,7 @@
 - [7 种 Go 程序性能分析方法](https://www.7ethan.top/article/golang/94)
 - [使用 LLDB 调试 Go 程序](https://colobu.com/2018/03/12/Debugging-Go-Code-with-LLDB/)
 - [gops - Go 程序诊断分析工具](https://segmentfault.com/a/1190000016726856)
+- [Go 性能优化- For Range 性能研究](http://www.flysnow.org/2018/10/20/golang-for-range-slice-map.html)
 
 ### 并发
 
@@ -74,4 +75,4 @@
 - [Go Defer 高级实践](https://segmentfault.com/a/1190000016666245)
 - [Go 程序是如何编译成目标机器码的](https://segmentfault.com/a/1190000016523685)
 - [Go 的栈空间管理](https://zhuanlan.zhihu.com/p/46532477)
-- [Golang的反射reflect深入理解和示例](https://www.jianshu.com/p/b46b1ccd2757)
+- [Go 的反射reflect深入理解和示例](https://www.jianshu.com/p/b46b1ccd2757)
