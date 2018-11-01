@@ -59,11 +59,13 @@
 ## 高级
 
 ### 性能
+
 - [Golang 大杀器之性能剖析](https://github.com/EDDYCJY/blog/blob/master/golang/2018-09-15-Golang%20%E5%A4%A7%E6%9D%80%E5%99%A8%E4%B9%8B%E6%80%A7%E8%83%BD%E5%89%96%E6%9E%90%20PProf.md)
 - [7 种 Go 程序性能分析方法](https://www.7ethan.top/article/golang/94)
 - [使用 LLDB 调试 Go 程序](https://colobu.com/2018/03/12/Debugging-Go-Code-with-LLDB/)
 - [gops - Go 程序诊断分析工具](https://segmentfault.com/a/1190000016726856)
 - [Go 性能优化- For Range 性能研究](http://www.flysnow.org/2018/10/20/golang-for-range-slice-map.html)
+- [Go 减小gc压力、避免内存泄漏小tips](https://www.golangnote.com/topic/222.html)
 
 ### 并发
 
