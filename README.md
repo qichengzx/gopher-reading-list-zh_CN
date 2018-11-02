@@ -48,6 +48,7 @@
 ### 测试
 
 - [SmartyStreets 的 Go 测试探索之路](https://juejin.im/post/5ba83f2ff265da0a867c3818)
+- [Go 单元测试](https://segmentfault.com/a/1190000007951944)
 
 ### 杂项
 
