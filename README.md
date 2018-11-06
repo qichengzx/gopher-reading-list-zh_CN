@@ -39,6 +39,10 @@
 - [像牛人一样改进你的Go代码](https://colobu.com/2017/06/27/Lint-your-golang-code-like-a-mad-man/)
 - [使goroutine同步的方法总结](https://www.cnblogs.com/xiaoxlm/p/9753942.html)
 
+### 代码组织与风格
+
+- [如何编写 Go 代码](https://segmentfault.com/a/1190000016868608)
+
 ## 中级
 
 ### 并发
