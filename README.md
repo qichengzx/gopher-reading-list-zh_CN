@@ -41,6 +41,7 @@
 
 ### 代码组织与风格
 
+- [Go 代码规范](https://sheepbao.github.io/post/golang_code_specification/)
 - [如何编写 Go 代码](https://segmentfault.com/a/1190000016868608)
 
 ## 中级
