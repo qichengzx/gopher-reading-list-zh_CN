@@ -43,7 +43,7 @@
 
 - [Go 代码规范](https://sheepbao.github.io/post/golang_code_specification/)
 - [如何编写 Go 代码](https://segmentfault.com/a/1190000016868608)
-- [编写可维护 Go 语言代码建议](https://mp.weixin.qq.com/s/BbZcp5OJSQHNi6nlnu3_eA)
+- [编写可维护 Go 语言代码建议](https://github.com/llitfkitfk/go-best-practice)
 
 ## 中级
 
