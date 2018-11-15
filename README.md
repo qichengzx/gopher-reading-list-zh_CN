@@ -38,6 +38,7 @@
 - [fmt 如何进行格式化？](http://blog.cyeam.com/golang/2018/09/10/fmt)  
 - [像牛人一样改进你的Go代码](https://colobu.com/2017/06/27/Lint-your-golang-code-like-a-mad-man/)
 - [使goroutine同步的方法总结](https://www.cnblogs.com/xiaoxlm/p/9753942.html)
+- [Go 结构体(struct)和方法(method)](https://blog.csdn.net/u013255127/article/details/83824434)
 
 ### 代码组织与风格
 
