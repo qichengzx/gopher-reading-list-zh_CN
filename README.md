@@ -46,6 +46,10 @@
 - [如何编写 Go 代码](https://segmentfault.com/a/1190000016868608)
 - [编写可维护 Go 语言代码建议](https://github.com/llitfkitfk/go-best-practice)
 
+### Web
+
+- [理解 Go 语言Web编程](http://chingli.com/coding/understanding-go-web-app.html)
+
 ## 中级
 
 ### 并发
