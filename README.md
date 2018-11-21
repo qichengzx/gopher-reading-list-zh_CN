@@ -39,6 +39,7 @@
 - [像牛人一样改进你的Go代码](https://colobu.com/2017/06/27/Lint-your-golang-code-like-a-mad-man/)
 - [使goroutine同步的方法总结](https://www.cnblogs.com/xiaoxlm/p/9753942.html)
 - [Go 结构体(struct)和方法(method)](https://blog.csdn.net/u013255127/article/details/83824434)
+- [Go 接口](http://www.cnblogs.com/f-ck-need-u/p/9940845.html)
 
 ### 代码组织与风格
 
