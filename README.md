@@ -49,6 +49,7 @@
 ### Web
 
 - [理解 Go 语言Web编程](http://chingli.com/coding/understanding-go-web-app.html)
+- [Go Web（session和数据存储）](http://xkux8023.tk/go/2017/12/28/Go-Web-session%E5%92%8C%E6%95%B0%E6%8D%AE%E5%AD%98%E5%82%A8/)
 
 ## 中级
 
