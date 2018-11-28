@@ -40,6 +40,7 @@
 - [使goroutine同步的方法总结](https://www.cnblogs.com/xiaoxlm/p/9753942.html)
 - [Go 结构体(struct)和方法(method)](https://blog.csdn.net/u013255127/article/details/83824434)
 - [Go 接口](http://www.cnblogs.com/f-ck-need-u/p/9940845.html)
+- [Go编程基础](https://mp.weixin.qq.com/s/ErYUW2Ny6VGNT_SepxNQng)
 
 ### 代码组织与风格
 
