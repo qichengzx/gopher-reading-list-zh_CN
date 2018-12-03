@@ -58,6 +58,7 @@
 ### 并发
 
 - [通过插图学习 Go 的并发](https://golangcaff.com/topics/140/learning-the-concurrency-of-go-through-illustrations)
+- [Go 并发编程基础](http://blog.xiayf.cn/2015/05/20/fundamentals-of-concurrent-programming/)
 
 ### 测试
 
