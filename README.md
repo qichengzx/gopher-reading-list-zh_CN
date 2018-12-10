@@ -73,6 +73,7 @@
 - [初窥Go module](https://tonybai.com/2018/07/15/hello-go-module/)
 - [goroutine和panic不得不说的故事](https://zhuanlan.zhihu.com/p/42101856)
 - [Go 反射](https://www.jianshu.com/p/1cf328cfe82b)
+- [Golang 之协程详解](https://mp.weixin.qq.com/s/07JArZmyWP_blz-KP3eCyQ)
 
 ## 高级
 
