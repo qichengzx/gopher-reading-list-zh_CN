@@ -38,7 +38,6 @@
 - [十条有用的 Go 技术](https://golangcaff.com/topics/114/ten-useful-techniques-in-go)
 - [fmt 如何进行格式化？](http://blog.cyeam.com/golang/2018/09/10/fmt)  
 - [像牛人一样改进你的Go代码](https://colobu.com/2017/06/27/Lint-your-golang-code-like-a-mad-man/)
-- [使goroutine同步的方法总结](https://www.cnblogs.com/xiaoxlm/p/9753942.html)
 - [Go 结构体(struct)和方法(method)](https://blog.csdn.net/u013255127/article/details/83824434)
 - [Go 接口](http://www.cnblogs.com/f-ck-need-u/p/9940845.html)
 - [Go编程基础](https://mp.weixin.qq.com/s/ErYUW2Ny6VGNT_SepxNQng)
@@ -75,6 +74,7 @@
 - [goroutine和panic不得不说的故事](https://zhuanlan.zhihu.com/p/42101856)
 - [Go 反射](https://www.jianshu.com/p/1cf328cfe82b)
 - [Golang 之协程详解](https://mp.weixin.qq.com/s/07JArZmyWP_blz-KP3eCyQ)
+- [使goroutine同步的方法总结](https://www.cnblogs.com/xiaoxlm/p/9753942.html)
 
 ## 高级
 
