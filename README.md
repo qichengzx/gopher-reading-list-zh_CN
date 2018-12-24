@@ -101,6 +101,10 @@
 
 - [Go并发编程-Goroutine如何调度的?](https://mp.weixin.qq.com/s/eDpNOUR1uKUsV39jDe_w4A)
 
+### JSON
+
+- [Go 中使用 JSON 的小技巧](https://colobu.com/2017/06/21/json-tricks-in-Go/)
+
 ### 杂项
 
 - [Go Channel 高级实践](https://segmentfault.com/a/1190000016197615)
