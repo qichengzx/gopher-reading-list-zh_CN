@@ -58,6 +58,7 @@
 ### 并发
 
 - [Go 并发基础](https://www.jianshu.com/p/b677bc9ff964)
+- [Go 基础学习之并发](https://segmentfault.com/a/1190000011466289)
 
 ## 中级
 
