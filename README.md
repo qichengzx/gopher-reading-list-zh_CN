@@ -95,6 +95,7 @@
 - [Go 性能优化- For Range 性能研究](http://www.flysnow.org/2018/10/20/golang-for-range-slice-map.html)
 - [Go 减小gc压力、避免内存泄漏小tips](https://www.golangnote.com/topic/222.html)
 - [Go 调优神器trace介绍](https://mp.weixin.qq.com/s/0x5OuG-JzODMRpyEIEU2RA)
+- [在 Go 中恰到好处的内存对齐](https://segmentfault.com/a/1190000017527311)
 
 ### 垃圾回收
 
