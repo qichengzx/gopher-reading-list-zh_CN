@@ -100,6 +100,7 @@
 ### 垃圾回收
 
 - [Go 垃圾回收剖析](http://legendtkl.com/2017/04/28/golang-gc/)
+- [现代垃圾回收](https://segmentfault.com/a/1190000007926782)
 
 ### 并发
 
