@@ -83,6 +83,7 @@
 - [Golang 之协程详解](https://mp.weixin.qq.com/s/07JArZmyWP_blz-KP3eCyQ)
 - [使goroutine同步的方法总结](https://www.cnblogs.com/xiaoxlm/p/9753942.html)
 - [Golang通道的无阻塞读写](https://www.jianshu.com/p/3b24e909905f)
+- [使用 Golang Timer 的正确方式](http://russellluo.com/2018/09/the-correct-way-to-use-timer-in-golang.html)
 
 ## 高级
 
