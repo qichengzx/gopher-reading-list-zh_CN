@@ -72,6 +72,7 @@
 - [SmartyStreets 的 Go 测试探索之路](https://juejin.im/post/5ba83f2ff265da0a867c3818)
 - [Go 单元测试](https://segmentfault.com/a/1190000007951944)
 - [Go 语言单元测试实践](https://www.sulinehk.com/post/golang-unit-testing/)
+- [Go 单元测试进阶篇](https://juejin.im/post/58db5f9ab123db199f54e1e5)
 
 ### 杂项
 
