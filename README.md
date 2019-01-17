@@ -39,7 +39,7 @@
 - [十条有用的 Go 技术](https://golangcaff.com/topics/114/ten-useful-techniques-in-go)
 - [fmt 如何进行格式化？](http://blog.cyeam.com/golang/2018/09/10/fmt)  
 - [像牛人一样改进你的Go代码](https://colobu.com/2017/06/27/Lint-your-golang-code-like-a-mad-man/)
-- [Go 结构体(struct)和方法(method)](https://blog.csdn.net/u013255127/article/details/83824434)
+- [Go 结构体和方法](https://juejin.im/post/5c36ab82f265da616f70292a)
 - [Go 接口](http://www.cnblogs.com/f-ck-need-u/p/9940845.html)
 - [Go编程基础](https://mp.weixin.qq.com/s/ErYUW2Ny6VGNT_SepxNQng)
 
