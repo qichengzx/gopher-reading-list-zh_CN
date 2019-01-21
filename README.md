@@ -42,6 +42,7 @@
 - [Go 结构体和方法](https://juejin.im/post/5c36ab82f265da616f70292a)
 - [Go 接口](http://www.cnblogs.com/f-ck-need-u/p/9940845.html)
 - [Go编程基础](https://mp.weixin.qq.com/s/ErYUW2Ny6VGNT_SepxNQng)
+- [Go Slice 最大容量大小是怎么来的](https://mp.weixin.qq.com/s/7HhDb0prJ7qKPtNLePsmNw)
 
 ### 代码组织与风格
 
