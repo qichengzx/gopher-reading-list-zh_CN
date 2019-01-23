@@ -49,6 +49,7 @@
 - [Go 代码规范](https://sheepbao.github.io/post/golang_code_specification/)
 - [如何编写 Go 代码](https://segmentfault.com/a/1190000016868608)
 - [编写可维护 Go 语言代码建议](https://github.com/llitfkitfk/go-best-practice)
+- [Go 编码技巧分享](https://juejin.im/post/5bf9610e6fb9a04a027a040d)
 
 ### Web
 
