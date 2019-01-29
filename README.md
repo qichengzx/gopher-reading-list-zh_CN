@@ -105,6 +105,7 @@
 - [Go 减小gc压力、避免内存泄漏小tips](https://www.golangnote.com/topic/222.html)
 - [Go 调优神器trace介绍](https://mp.weixin.qq.com/s/0x5OuG-JzODMRpyEIEU2RA)
 - [在 Go 中恰到好处的内存对齐](https://segmentfault.com/a/1190000017527311)
+- [Go 指针能优化性能吗？](https://segmentfault.com/a/1190000017969820)
 
 ### 垃圾回收
 
