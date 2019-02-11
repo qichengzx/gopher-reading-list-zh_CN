@@ -120,6 +120,7 @@
 ### JSON
 
 - [Go 中使用 JSON 的小技巧](https://colobu.com/2017/06/21/json-tricks-in-Go/)
+- [理解 Go 中的 JSON](https://sanyuesha.com/2018/05/07/go-json/)
 
 ### 杂项
 
