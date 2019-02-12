@@ -131,3 +131,4 @@
 - [Go 的反射reflect深入理解和示例](https://www.jianshu.com/p/b46b1ccd2757)
 - [Go map的底层实现](https://juejin.im/post/5baf18946fb9a05d165895ce)
 - [深度解析 Go 语言中「切片」的三种特殊状态](https://juejin.im/post/5bea58df6fb9a049f153bca8)
+- [Go 语言：The Laws of Reflection 中文版](https://juejin.im/post/5bfb950751882511630d53bd)
