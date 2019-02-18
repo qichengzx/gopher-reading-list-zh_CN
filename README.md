@@ -72,6 +72,7 @@
 - [Go 并发编程基础](http://blog.xiayf.cn/2015/05/20/fundamentals-of-concurrent-programming/)
 - [Go 并发调用的超时处理](https://juejin.im/post/5c3aeffde51d4551140d96cf)
 - [Golang并发：再也不愁选channel还是选锁](https://segmentfault.com/a/1190000017890174)
+- [总结了才知道，原来channel有这么多用法！](https://segmentfault.com/a/1190000017958702)
 
 ### 测试
 
