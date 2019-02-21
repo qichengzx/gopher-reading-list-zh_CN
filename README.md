@@ -136,3 +136,4 @@
 - [Go 语言：The Laws of Reflection 中文版](https://juejin.im/post/5bfb950751882511630d53bd)
 - [理解 Golang 中函数调用的原理](https://draveness.me/golang-funciton-call)
 - [Go 内存管理](https://my.oschina.net/renhc/blog/2236782)
+- [Go 语言编译过程概述](https://juejin.im/entry/5c60c4c1f265da2de45052d4)
