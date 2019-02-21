@@ -52,6 +52,7 @@
 - [编写可维护 Go 语言代码建议](https://github.com/llitfkitfk/go-best-practice)
 - [Go 编码技巧分享](https://juejin.im/post/5bf9610e6fb9a04a027a040d)
 - [Go 语言错误处理的推荐方案](https://www.flysnow.org/2019/01/01/golang-error-handle-suggestion.html)
+- [Go 语言如何解决代码耦合](https://juejin.im/post/5c5ae7fce51d457fc5647775)
 
 ### Web
 
