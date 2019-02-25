@@ -84,6 +84,10 @@
 - [Go 单元测试进阶篇](https://juejin.im/post/58db5f9ab123db199f54e1e5)
 - [Go 测试，go test 工具的具体指令 flag](https://deepzz.com/post/the-command-flag-of-go-test.html)
 
+### Web
+
+- [如何使用 Go 语言解析 JSON](https://log.zvz.im/2019/02/18/parsing-json-in-golang/)
+
 ### 杂项
 
 - [Go 的位操作](https://golangcaff.com/topics/139/bit-operation-of-go)
