@@ -76,6 +76,7 @@
 - [Golang并发：再也不愁选channel还是选锁](https://segmentfault.com/a/1190000017890174)
 - [总结了才知道，原来channel有这么多用法！](https://segmentfault.com/a/1190000017958702)
 - [Go并发编程中的那些事](https://zhuanlan.zhihu.com/p/30354536)
+- [Go并发机制](https://github.com/k2huang/blogpost/blob/master/golang/%E5%B9%B6%E5%8F%91%E7%BC%96%E7%A8%8B/%E5%B9%B6%E5%8F%91%E6%9C%BA%E5%88%B6/Go%E5%B9%B6%E5%8F%91%E6%9C%BA%E5%88%B6.md)
 
 ### 测试
 
