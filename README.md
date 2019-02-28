@@ -36,6 +36,7 @@
 ### 基础
 
 - [Go 语言结构](https://segmentfault.com/a/1190000017032580)
+- [Go常用的数据结构](https://juejin.im/entry/5c484af3f265da6115111bab)
 - [十条有用的 Go 技术](https://golangcaff.com/topics/114/ten-useful-techniques-in-go)
 - [fmt 如何进行格式化？](http://blog.cyeam.com/golang/2018/09/10/fmt)  
 - [像牛人一样改进你的Go代码](https://colobu.com/2017/06/27/Lint-your-golang-code-like-a-mad-man/)
