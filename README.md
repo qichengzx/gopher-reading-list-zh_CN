@@ -122,6 +122,7 @@
 - [Go 垃圾回收剖析](http://legendtkl.com/2017/04/28/golang-gc/)
 - [现代垃圾回收](https://segmentfault.com/a/1190000007926782)
 - [Go 垃圾回收机制](https://segmentfault.com/a/1190000018161588)
+- [Go语言实时GC - 三色标记算法](https://juejin.im/post/5c62d45ee51d457fa44f4404)
 
 ### 并发
 
