@@ -102,6 +102,7 @@
 - [Golang通道的无阻塞读写](https://www.jianshu.com/p/3b24e909905f)
 - [使用 Golang Timer 的正确方式](http://russellluo.com/2018/09/the-correct-way-to-use-timer-in-golang.html)
 - [理解Go语言的nil](https://juejin.im/entry/5c36ebe56fb9a049b2221472)
+- [Golang之轻松化解defer的温柔陷阱](https://gocn.vip/article/1588)
 
 ## 高级
 
