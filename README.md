@@ -128,6 +128,7 @@
 ### 并发
 
 - [Go并发编程-Goroutine如何调度的?](https://mp.weixin.qq.com/s/eDpNOUR1uKUsV39jDe_w4A)
+- [Golang协程池设计](https://segmentfault.com/a/1190000018193161)
 
 ### JSON
 
