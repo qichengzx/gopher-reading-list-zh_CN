@@ -45,6 +45,7 @@
 - [Go编程基础](https://mp.weixin.qq.com/s/ErYUW2Ny6VGNT_SepxNQng)
 - [Go Slice 最大容量大小是怎么来的](https://mp.weixin.qq.com/s/7HhDb0prJ7qKPtNLePsmNw)
 - [Go 新手容易犯的三个致命错误](https://juejin.im/post/5c43dac6f265da6115111141)
+- [Golang slice 操作](https://zhuanlan.zhihu.com/p/34041570)
 
 ### 代码组织与风格
 
