@@ -119,7 +119,7 @@
 - [Go 调优神器trace介绍](https://mp.weixin.qq.com/s/0x5OuG-JzODMRpyEIEU2RA)
 - [在 Go 中恰到好处的内存对齐](https://segmentfault.com/a/1190000017527311)
 - [Go 指针能优化性能吗？](https://segmentfault.com/a/1190000017969820)
-
+- [Golang gc 优化思路以及实例分析](https://studygolang.com/articles/12751)
 ### 垃圾回收
 
 - [Go 垃圾回收剖析](http://legendtkl.com/2017/04/28/golang-gc/)
