@@ -154,3 +154,4 @@
 - [Go 语言编译过程概述](https://juejin.im/entry/5c60c4c1f265da2de45052d4)
 - [Go 堆栈的理解](https://segmentfault.com/a/1190000017498101)
 - [Go 语言数组和切片的原理](https://draveness.me/golang-array-and-slice)
+- [图解 Go 内存分配器](https://www.infoq.cn/article/IEhRLwmmIM7-11RYaLHR)
