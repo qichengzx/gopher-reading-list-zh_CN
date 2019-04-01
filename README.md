@@ -125,12 +125,14 @@
 - [在 Go 中恰到好处的内存对齐](https://segmentfault.com/a/1190000017527311)
 - [Go 指针能优化性能吗？](https://segmentfault.com/a/1190000017969820)
 - [Golang gc 优化思路以及实例分析](https://studygolang.com/articles/12751)
+
 ### 垃圾回收
 
 - [Go 垃圾回收剖析](http://legendtkl.com/2017/04/28/golang-gc/)
 - [现代垃圾回收](https://segmentfault.com/a/1190000007926782)
 - [Go 垃圾回收机制](https://segmentfault.com/a/1190000018161588)
 - [Go语言实时GC - 三色标记算法](https://juejin.im/post/5c62d45ee51d457fa44f4404)
+- [图解Golang的GC算法](https://juejin.im/post/5c8525666fb9a049ea39c3e6)
 
 ### 并发
 
