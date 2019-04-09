@@ -110,6 +110,7 @@
 - [使用 Golang Timer 的正确方式](http://russellluo.com/2018/09/the-correct-way-to-use-timer-in-golang.html)
 - [理解Go语言的nil](https://juejin.im/entry/5c36ebe56fb9a049b2221472)
 - [Golang之轻松化解defer的温柔陷阱](https://gocn.vip/article/1588)
+- [Go 语言闭包详解](https://www.sulinehk.com/post/golang-closure-details/)
 
 ## 高级
 
