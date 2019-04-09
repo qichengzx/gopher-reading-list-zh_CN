@@ -88,6 +88,7 @@
 - [Go 语言单元测试实践](https://www.sulinehk.com/post/golang-unit-testing/)
 - [Go 单元测试进阶篇](https://juejin.im/post/58db5f9ab123db199f54e1e5)
 - [Go 测试，go test 工具的具体指令 flag](https://deepzz.com/post/the-command-flag-of-go-test.html)
+- [Go 单元测试和性能测试](https://segmentfault.com/a/1190000018471470)
 
 ### Web
 
