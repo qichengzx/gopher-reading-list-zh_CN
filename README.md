@@ -128,6 +128,7 @@
 - [Go 指针能优化性能吗？](https://segmentfault.com/a/1190000017969820)
 - [Golang gc 优化思路以及实例分析](https://studygolang.com/articles/12751)
 - [高性能 Go 服务的内存优化(译)](https://www.jianshu.com/p/63404461e520)
+- [大堆栈带来的高GC开销的问题](https://mp.weixin.qq.com/s/mtrnXsCISfJsshmSrb77Yw)
 
 ### 垃圾回收
 
