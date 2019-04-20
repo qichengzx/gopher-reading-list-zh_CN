@@ -97,6 +97,7 @@
 - [Golang中Context的使用场景](https://mp.weixin.qq.com/s/xbDFN-JhTIQ4xWanEC1Bxw)
 - [Go 语言中关于JSON的整理](https://blog.frognew.com/2017/01/json-and-go.html)
 - [JSON 的编码和解码](https://gocn.vip/question/1483)
+- [浅谈 Go 标准库对 JSON 的处理效率](https://jingwei.link/2019/03/16/golang-json-performance.html)
 
 ### 杂项
 
