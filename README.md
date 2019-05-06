@@ -63,6 +63,7 @@
 - [理解 Go 语言Web编程](http://chingli.com/coding/understanding-go-web-app.html)
 - [Go Web（session和数据存储）](http://xkux8023.tk/go/2017/12/28/Go-Web-session%E5%92%8C%E6%95%B0%E6%8D%AE%E5%AD%98%E5%82%A8/)
 - [使用Go和Angular通过WebSocket构建实时聊天应用](https://www.qichengzx.com/2017/07/15/create-real-time-chat-app-golang-angular-2-websockets.html)
+- [Go如何响应http请求？](https://juejin.im/post/5ca0a2256fb9a05e6f7af992)
 
 ### 并发
 
