@@ -48,6 +48,7 @@
 - [Golang slice 操作](https://zhuanlan.zhihu.com/p/34041570)
 - [Golang 中的slice操作](https://mp.weixin.qq.com/s/FRVDv0IBF-fRTOrYnyVVUg)
 - [Go Struct超详细讲解](https://juejin.im/post/5ca2f37ce51d4502a27f0539)
+- [谈谈Go语言字符串](https://mp.weixin.qq.com/s/pjv1FNl0bxl3dwk6hYhzBg)
 
 ### 代码组织与风格
 
