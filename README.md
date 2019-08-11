@@ -16,6 +16,7 @@
   - [代码组织与风格](#user-content-代码组织与风格)
   - [Web](#user-content-Web)
   - [并发](#user-content-并发)
+  - [Go Modules](#go-modules)
 - [中级](#user-content-中级)
   - [代码设计](#user-content-代码设计)
   - [并发](#user-content-并发-1)
@@ -73,6 +74,11 @@
 
 - [Go 并发基础](https://www.jianshu.com/p/b677bc9ff964)
 - [Go 基础学习之并发](https://segmentfault.com/a/1190000011466289)
+
+### Go Modules
+
+- [初窥Go module](https://tonybai.com/2018/07/15/hello-go-module/)
+- [Go Modules 踩坑总结](https://juejin.im/post/5d1ae1b2f265da1b8466fecb)
 
 ## 中级
 
