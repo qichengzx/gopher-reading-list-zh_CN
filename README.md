@@ -143,6 +143,7 @@
 - [高性能 Go 服务的内存优化(译)](https://www.jianshu.com/p/63404461e520)
 - [大堆栈带来的高GC开销的问题](https://mp.weixin.qq.com/s/mtrnXsCISfJsshmSrb77Yw)
 - [深入浅出 Go trace](https://mp.weixin.qq.com/s/I9xSMxy32cALSNQAN8wlnQ)
+- [Go语言中[]byte和string类型相互转换时的性能分析和优化](https://www.pengrl.com/p/31544/)
 
 ### 垃圾回收
 
