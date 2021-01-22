@@ -82,6 +82,10 @@
 
 ## 中级
 
+### 代码设计
+
+- [如何避免用动态语言的思维写Go代码](https://mp.weixin.qq.com/s/xNmhk_ZI38MgJt9rRZz7LA)
+
 ### 并发
 
 - [通过插图学习 Go 的并发](https://golangcaff.com/topics/140/learning-the-concurrency-of-go-through-illustrations)
