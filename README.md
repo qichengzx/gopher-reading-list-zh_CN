@@ -148,6 +148,7 @@
 - [大堆栈带来的高GC开销的问题](https://mp.weixin.qq.com/s/mtrnXsCISfJsshmSrb77Yw)
 - [深入浅出 Go trace](https://mp.weixin.qq.com/s/I9xSMxy32cALSNQAN8wlnQ)
 - [Go语言中[]byte和string类型相互转换时的性能分析和优化](https://www.pengrl.com/p/31544/)
+- [Go 应用优化指北](https://mp.weixin.qq.com/s/J1PdpX4Mr6crR6cZMAqecQ)
 
 ### 垃圾回收
 
