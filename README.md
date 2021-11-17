@@ -85,6 +85,7 @@
 ### 代码设计
 
 - [如何避免用动态语言的思维写Go代码](https://mp.weixin.qq.com/s/xNmhk_ZI38MgJt9rRZz7LA)
+- [Google：12 条 Golang 最佳实践](https://mp.weixin.qq.com/s/XftPV6aiaiqKFCVtM4hhQA)
 
 ### 并发
 
