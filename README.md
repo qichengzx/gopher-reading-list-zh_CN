@@ -37,8 +37,8 @@
 ### 基础
 
 - [Go 语言结构](https://segmentfault.com/a/1190000017032580)
-- [Go常用的数据结构](https://juejin.im/post/5c484a88e51d4551cc6e3eb3)
-- [十条有用的 Go 技术](https://golangcaff.com/topics/114/ten-useful-techniques-in-go)
+- [Go 中常用的数据结构介绍](http://bikong0411.github.io/2015/10/20/go-basic-data-structure.html)
+- [十条有用的 Go 技术](https://cloud.tencent.com/developer/article/1071735)
 - [fmt 如何进行格式化？](http://blog.cyeam.com/golang/2018/09/10/fmt)  
 - [像牛人一样改进你的Go代码](https://colobu.com/2017/06/27/Lint-your-golang-code-like-a-mad-man/)
 - [Go 结构体和方法](https://juejin.im/post/5c36ab82f265da616f70292a)
@@ -53,7 +53,7 @@
 
 ### 代码组织与风格
 
-- [Go 代码规范](https://sheepbao.github.io/post/golang_code_specification/)
+- [Uber Go语言编码规范](https://tonybai.com/2019/10/12/uber-go-style-guide/)
 - [如何编写 Go 代码](https://segmentfault.com/a/1190000016868608)
 - [编写可维护 Go 语言代码建议](https://github.com/llitfkitfk/go-best-practice)
 - [Go 编码技巧分享](https://juejin.im/post/5bf9610e6fb9a04a027a040d)
@@ -66,9 +66,7 @@
 ### Web
 
 - [理解 Go 语言Web编程](http://chingli.com/coding/understanding-go-web-app.html)
-- [Go Web（session和数据存储）](http://xkux8023.tk/go/2017/12/28/Go-Web-session%E5%92%8C%E6%95%B0%E6%8D%AE%E5%AD%98%E5%82%A8/)
 - [Go如何响应http请求？](https://juejin.im/post/5ca0a2256fb9a05e6f7af992)
-- [Go 处理 JSON 教程](https://bingohuang.com/go-json/)
 
 ### 并发
 
@@ -89,7 +87,7 @@
 
 ### 并发
 
-- [通过插图学习 Go 的并发](https://golangcaff.com/topics/140/learning-the-concurrency-of-go-through-illustrations)
+- [通过插图学习 Go 的并发](https://juejin.cn/post/6844903624062009352)
 - [Go 并发编程基础](http://blog.xiayf.cn/2015/05/20/fundamentals-of-concurrent-programming/)
 - [Go 并发调用的超时处理](https://juejin.im/post/5c3aeffde51d4551140d96cf)
 - [Golang并发：再也不愁选channel还是选锁](https://segmentfault.com/a/1190000017890174)
@@ -112,23 +110,19 @@
 - [Go 语言标准库 text/template 包深入浅出](https://juejin.im/post/5c403b98f265da612d1984c9)
 - [Golang中Context的使用场景](https://mp.weixin.qq.com/s/xbDFN-JhTIQ4xWanEC1Bxw)
 - [Go 语言中关于JSON的整理](https://blog.frognew.com/2017/01/json-and-go.html)
-- [JSON 的编码和解码](https://gocn.vip/question/1483)
 - [浅谈 Go 标准库对 JSON 的处理效率](https://jingwei.link/2019/03/16/golang-json-performance.html)
 - [专业 Golang HTTP 服务器](https://studygolang.com/articles/12977)
 
 ### 杂项
 
-- [Go 的位操作](https://golangcaff.com/topics/139/bit-operation-of-go)
 - [Go 语言HTTP/2探险之旅](https://mp.weixin.qq.com/s/Wb4STm5tpZUTJkQbReyShg)
 - [初窥Go module](https://tonybai.com/2018/07/15/hello-go-module/)
-- [goroutine和panic不得不说的故事](https://zhuanlan.zhihu.com/p/42101856)
 - [Go 反射](https://www.jianshu.com/p/1cf328cfe82b)
 - [Golang 之协程详解](https://mp.weixin.qq.com/s/07JArZmyWP_blz-KP3eCyQ)
 - [使goroutine同步的方法总结](https://www.cnblogs.com/xiaoxlm/p/9753942.html)
 - [Golang通道的无阻塞读写](https://www.jianshu.com/p/3b24e909905f)
 - [使用 Golang Timer 的正确方式](http://russellluo.com/2018/09/the-correct-way-to-use-timer-in-golang.html)
 - [理解Go语言的nil](https://juejin.im/entry/5c36ebe56fb9a049b2221472)
-- [Golang之轻松化解defer的温柔陷阱](https://gocn.vip/article/1588)
 - [Go 语言闭包详解](https://www.sulinehk.com/post/golang-closure-details/)
 
 ## 高级
@@ -136,14 +130,12 @@
 ### 性能
 
 - [Golang 大杀器之性能剖析](https://segmentfault.com/a/1190000016412013)
-- [7 种 Go 程序性能分析方法](https://www.7ethan.top/article/golang/94)
 - [使用 LLDB 调试 Go 程序](https://colobu.com/2018/03/12/Debugging-Go-Code-with-LLDB/)
 - [gops - Go 程序诊断分析工具](https://segmentfault.com/a/1190000016726856)
 - [Go 性能优化- For Range 性能研究](http://www.flysnow.org/2018/10/20/golang-for-range-slice-map.html)
 - [Go 减小gc压力、避免内存泄漏小tips](https://www.golangnote.com/topic/222.html)
 - [Go 调优神器trace介绍](https://mp.weixin.qq.com/s/0x5OuG-JzODMRpyEIEU2RA)
 - [在 Go 中恰到好处的内存对齐](https://segmentfault.com/a/1190000017527311)
-- [Go 指针能优化性能吗？](https://segmentfault.com/a/1190000017969820)
 - [Golang gc 优化思路以及实例分析](https://studygolang.com/articles/12751)
 - [高性能 Go 服务的内存优化(译)](https://www.jianshu.com/p/63404461e520)
 - [大堆栈带来的高GC开销的问题](https://mp.weixin.qq.com/s/mtrnXsCISfJsshmSrb77Yw)
@@ -180,7 +172,6 @@
 - [Go map的底层实现](https://juejin.im/post/5baf18946fb9a05d165895ce)
 - [深度解析 Go 语言中「切片」的三种特殊状态](https://juejin.im/post/5bea58df6fb9a049f153bca8)
 - [Go 语言：The Laws of Reflection 中文版](https://juejin.im/post/5bfb950751882511630d53bd)
-- [理解 Golang 中函数调用的原理](https://draveness.me/golang-funciton-call)
 - [Go 内存管理](https://my.oschina.net/renhc/blog/2236782)
 - [Go 语言编译过程概述](https://juejin.im/entry/5c60c4c1f265da2de45052d4)
 - [Go 堆栈的理解](https://segmentfault.com/a/1190000017498101)
