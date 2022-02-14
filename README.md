@@ -62,6 +62,7 @@
 - [Go开发中一些有用的模式](https://colobu.com/2019/02/25/some-useful-patterns-in-go/)
 - [编写和优化Go代码](https://github.com/dgryski/go-perfbook/blob/master/performance-zh.md)
 - [Go错误处理最佳实践](https://lailin.xyz/post/go-training-03.html)
+- [Google：12 条 Golang 最佳实践](https://gocn.vip/topics/17431)
 
 ### Web
 
