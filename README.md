@@ -134,7 +134,7 @@
 - [使用 LLDB 调试 Go 程序](https://colobu.com/2018/03/12/Debugging-Go-Code-with-LLDB/)
 - [gops - Go 程序诊断分析工具](https://segmentfault.com/a/1190000016726856)
 - [Go 性能优化- For Range 性能研究](http://www.flysnow.org/2018/10/20/golang-for-range-slice-map.html)
-- [Go 减小gc压力、避免内存泄漏小tips](https://www.golangnote.com/topic/222.html)
+- [Go 减小gc压力、避免内存泄漏小tips](https://golangnote.com/topic/222.html)
 - [Go 调优神器trace介绍](https://mp.weixin.qq.com/s/0x5OuG-JzODMRpyEIEU2RA)
 - [在 Go 中恰到好处的内存对齐](https://segmentfault.com/a/1190000017527311)
 - [Golang gc 优化思路以及实例分析](https://studygolang.com/articles/12751)
