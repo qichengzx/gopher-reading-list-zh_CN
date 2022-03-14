@@ -63,6 +63,7 @@
 - [编写和优化Go代码](https://github.com/dgryski/go-perfbook/blob/master/performance-zh.md)
 - [Go错误处理最佳实践](https://lailin.xyz/post/go-training-03.html)
 - [Google：12 条 Golang 最佳实践](https://gocn.vip/topics/17431)
+- [以层的方式而不是组的方式进行包管理](https://github.com/gocn/translator/blob/master/2021/w7_packages_as_layers_not_groups.md)
 
 ### Web
 
