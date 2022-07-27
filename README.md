@@ -180,3 +180,4 @@
 - [图解 Go 内存分配器](https://www.infoq.cn/article/IEhRLwmmIM7-11RYaLHR)
 - [理解 Golang 哈希表 Map 的原理](https://draveness.me/golang-hashmap)
 - [Go 语言类型系统详解](https://juejin.im/post/5c8f5ee85188252d72550a0b)
+- [理解 Go interface 的 5 个关键点](https://sanyuesha.com/2017/07/22/how-to-understand-go-interface/)
